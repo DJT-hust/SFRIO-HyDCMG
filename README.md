@@ -96,3 +96,15 @@ cited according to the manuscript.
 ## License
 
 This code is released under the MIT License.
+
+## Bibtex
+
+```
+@article{duan2026interval,
+  title={Interval optimization coupled with statistical feasibility robust optimization for hydrogen data center microgrid scheduling},
+  author={Duan, Juntao and Li, Yuanzheng and Li, Yang and Yao, Wei and Jiang, Lin and Shi, Yang},
+  journal={European Journal of Operational Research},
+  year={2026},
+  publisher={Elsevier}
+}
+```
